@@ -2,17 +2,29 @@
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 
+
+## Adding an Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+
+
+
+## Adding a code block
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
 
+
+## Adding a Task List
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+
+
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
